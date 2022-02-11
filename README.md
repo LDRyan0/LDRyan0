@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LDRyan0
-- 👀 I’m interested in Computer Vision, Radio Astronomy, Machine Learning and High Performance Computing.
+- 👀 I’m interested in Computer Vision, Radio Astronomy, Machine Learning, High Performance Computing and GPU programming.
 - 🌱 I’m currently studying a BEng (Hons) Electrical and Electronic Engineering/BSc Computer Science at Curtin University.
 - 📫 How to reach me: liamdryan01@gmail.com
